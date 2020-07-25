@@ -26,7 +26,7 @@ def get_links(playlist):
 
     print("Starting driver")
     driver = webdriver.Chrome(options=chrome_options)
-    driver.get(PLAYLIST_LINK)
+    driver.get(playlist)
 
     print("Page opened")
     time.sleep(5)
