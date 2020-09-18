@@ -7,3 +7,5 @@ https://docs.google.com/spreadsheets/d/1iTWpE588UcyyxTWG0UZzCZ78_seQQU4GOevy36fv
 code for runing scraper is hosted here - https://repl.it/@HaykTarkhanyan/karginscraper#main.py
 
 beta search - https://repl.it/@HaykTarkhanyan/searchbetabetabeta#main.py
+
+https://github.com/lilithkarapetyan/recommendation-system-kargin-haghordum
