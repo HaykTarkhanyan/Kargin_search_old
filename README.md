@@ -9,3 +9,5 @@ code for runing scraper is hosted here - https://repl.it/@HaykTarkhanyan/kargins
 beta search - https://repl.it/@HaykTarkhanyan/searchbetabetabeta#main.py
 
 https://github.com/lilithkarapetyan/recommendation-system-kargin-haghordum
+
+https://github.com/annazizian/KarginProject/
